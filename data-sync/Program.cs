@@ -1,4 +1,4 @@
 ﻿using data_sync;
 
-DbFile file = new DbFile("database1", "MySQL");
+DbFile file = new DbFile();
 file.FilePrint();
